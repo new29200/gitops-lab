@@ -11,4 +11,4 @@
 [ Application ]
 
 definition personnelle:
-Selon moi gitops est unne apprche permettant un depploiement propre, suivis des differentes operations quon souhaite realiser tout en maintenant une certaine supervision dessus.
+Selon moi, GitOps est une approche qui permet un déploiement propre, un suivi des différentes opérations que l’on souhaite réaliser, tout en maintenant une certaine supervision dessus.
